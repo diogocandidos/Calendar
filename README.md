@@ -4,4 +4,8 @@ This activity is a simple calendar planner that uses moment.js to display the cu
 
 Link: https://diogocandidos.github.io/Calendar/
 
+<img width="500" alt="contact" src="https://user-images.githubusercontent.com/61811579/91782066-f1b27f80-ebb0-11ea-9212-7f52cee3234d.png">
+
+<img width="500" alt="contact" src="https://user-images.githubusercontent.com/61811579/91782076-f840f700-ebb0-11ea-9b25-936786dc2869.png">
+
 
